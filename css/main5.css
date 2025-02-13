@@ -1,0 +1,34 @@
+.box{
+    width: 1200px;
+    margin: 20px auto;
+}
+.box-item-1{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    margin: 0 30px;
+    float: left;
+}
+.box-item-2{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    margin: 0 30px;
+    float: left;
+}
+.box-item-3{
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    margin: 0 30px;
+    float: left;
+}

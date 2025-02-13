@@ -1,0 +1,45 @@
+.box{
+    width: 1200px;
+    margin: 20px auto;
+}
+.clear{
+    clear: both;
+}
+.box-item{
+    width: 200px;
+    height: 200px;
+    background-color: papayawhip;
+    border: 3px solid black;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 20px;
+    float: left;
+    margin: 0 30px;
+}
+h1{
+    color: aquamarine;
+    margin-left: 400px;
+    font-size: 40px;
+}
+.box-item-1{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    border: 3px solid black;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 20px;
+    float: left;
+    margin: 0 30px;
+}
+.box-item-2{
+    width: 200px;
+    height: 200px;
+    background-color: papayawhip;
+    border: 3px solid black;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 20px;
+    float: left;
+    margin: 0 30px;
+}

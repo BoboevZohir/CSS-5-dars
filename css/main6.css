@@ -1,0 +1,47 @@
+body{
+    background-color: lightgray;
+}
+.box{
+    width: 1000px;
+    margin: 20px auto;
+}
+.box-item{
+    width: 250px;
+    height: 400px;
+    float: left;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid white;
+    background-color: white;
+}
+h4{
+    color: aqua;
+}
+.start{
+    color: aqua;
+    border: 1px solid aqua;
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    margin-left: 50px;
+}
+.box-item-1{
+    width: 250px;
+    height: 400px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 300px;
+}
+.box-item-2{
+    width: 250px;
+    height: 400px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 600px;
+    margin-top: -400px;
+}

@@ -1,0 +1,40 @@
+body{
+    width: 1250px;
+    margin: 20px auto;
+}
+.box-item{
+    text-align: center;
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+.box-item-1{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+.box-item-2{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+.box-item-3{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+.box-item-4{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+.box-item-5{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    float: left;
+}

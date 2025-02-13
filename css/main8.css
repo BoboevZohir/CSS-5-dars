@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+.box{
+    width: 1200px;
+    margin: 20px auto;
+}
+.box-item{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 0 30px;
+    padding: 20px 30px;
+}
+.box-item-1{
+}
